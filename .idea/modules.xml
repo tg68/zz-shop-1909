@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/shop-v-basic/shop-conmon/shop-conmon.iml" filepath="$PROJECT_DIR$/shop-v-basic/shop-conmon/shop-conmon.iml" />
       <module fileurl="file://$PROJECT_DIR$/shop-v-basic/shop-entity/shop-entity.iml" filepath="$PROJECT_DIR$/shop-v-basic/shop-entity/shop-entity.iml" />
       <module fileurl="file://$PROJECT_DIR$/shop-v-basic/shop-mapper/shop-mapper.iml" filepath="$PROJECT_DIR$/shop-v-basic/shop-mapper/shop-mapper.iml" />
       <module fileurl="file://$PROJECT_DIR$/shop-v-api/shop-v-api.iml" filepath="$PROJECT_DIR$/shop-v-api/shop-v-api.iml" />

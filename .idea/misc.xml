@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/shop-v-web/pom.xml" />
         <option value="$PROJECT_DIR$/shop-v-basic/shop-entity/pom.xml" />
         <option value="$PROJECT_DIR$/shop-v-basic/shop-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-v-basic/shop-conmon/pom.xml" />
       </list>
     </option>
   </component>

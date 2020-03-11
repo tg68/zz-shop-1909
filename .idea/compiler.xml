@@ -12,9 +12,11 @@
         <module name="shop-v-web" />
         <module name="shop-v-ervice" />
         <module name="shop-v-api" />
+        <module name="shop-conmon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="shop-conmon" target="1.8" />
       <module name="shop-entity" target="1.8" />
       <module name="shop-mapper" target="1.8" />
       <module name="shop-v-api" target="1.5" />
@@ -25,6 +27,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="shop-conmon" options="-parameters" />
       <module name="shop-entity" options="-parameters" />
       <module name="shop-mapper" options="-parameters" />
     </option>
