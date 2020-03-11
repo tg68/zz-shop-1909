@@ -6,15 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="shop-v-api" />
+        <module name="shop-mapper" />
+        <module name="shop-entity" />
         <module name="shop-v-basic" />
         <module name="shop-v-web" />
         <module name="shop-v-ervice" />
-        <module name="shop-entity" />
+        <module name="shop-v-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="shop-entity" target="1.8" />
+      <module name="shop-mapper" target="1.8" />
       <module name="shop-v-api" target="1.5" />
       <module name="shop-v-basic" target="1.5" />
       <module name="shop-v-ervice" target="1.5" />
@@ -24,6 +26,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="shop-entity" options="-parameters" />
+      <module name="shop-mapper" options="-parameters" />
     </option>
   </component>
 </project>
