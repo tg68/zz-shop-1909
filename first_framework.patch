@@ -1,0 +1,59 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(date 1583903392000)
++++ .idea/misc.xml	(date 1583903965460)
+@@ -10,6 +10,7 @@
+         <option value="$PROJECT_DIR$/shop-v-basic/pom.xml" />
+         <option value="$PROJECT_DIR$/shop-v-ervice/pom.xml" />
+         <option value="$PROJECT_DIR$/shop-v-web/pom.xml" />
++        <option value="$PROJECT_DIR$/shop-v-basic/shop-entity/pom.xml" />
+       </list>
+     </option>
+   </component>
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(date 1583903392000)
++++ .idea/modules.xml	(date 1583903965475)
+@@ -2,6 +2,7 @@
+ <project version="4">
+   <component name="ProjectModuleManager">
+     <modules>
++      <module fileurl="file://$PROJECT_DIR$/shop-v-basic/shop-entity/shop-entity.iml" filepath="$PROJECT_DIR$/shop-v-basic/shop-entity/shop-entity.iml" />
+       <module fileurl="file://$PROJECT_DIR$/shop-v-api/shop-v-api.iml" filepath="$PROJECT_DIR$/shop-v-api/shop-v-api.iml" />
+       <module fileurl="file://$PROJECT_DIR$/shop-v-basic/shop-v-basic.iml" filepath="$PROJECT_DIR$/shop-v-basic/shop-v-basic.iml" />
+       <module fileurl="file://$PROJECT_DIR$/shop-v-ervice/shop-v-ervice.iml" filepath="$PROJECT_DIR$/shop-v-ervice/shop-v-ervice.iml" />
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/compiler.xml	(date 1583903392000)
++++ .idea/compiler.xml	(date 1583903965450)
+@@ -10,13 +10,20 @@
+         <module name="shop-v-basic" />
+         <module name="shop-v-web" />
+         <module name="shop-v-ervice" />
++        <module name="shop-entity" />
+       </profile>
+     </annotationProcessing>
+     <bytecodeTargetLevel>
++      <module name="shop-entity" target="1.8" />
+       <module name="shop-v-api" target="1.5" />
+       <module name="shop-v-basic" target="1.5" />
+       <module name="shop-v-ervice" target="1.5" />
+       <module name="shop-v-web" target="1.5" />
+     </bytecodeTargetLevel>
+   </component>
++  <component name="JavacSettings">
++    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
++      <module name="shop-entity" options="-parameters" />
++    </option>
++  </component>
+ </project>
+\ No newline at end of file

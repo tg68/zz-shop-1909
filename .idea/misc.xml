@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/shop-v-basic/pom.xml" />
         <option value="$PROJECT_DIR$/shop-v-ervice/pom.xml" />
         <option value="$PROJECT_DIR$/shop-v-web/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-v-basic/shop-entity/pom.xml" />
       </list>
     </option>
   </component>
