@@ -2,84 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89b64065-c44b-4958-a047-b8da1506e265" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_fluent_hc_4_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_31.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_31.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_31.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-api/shop-cart-api/src/main/java/com/qf/cartapi/MyCartService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/base/BaseServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/base/IBaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/base/IBaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/constant/CookieConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/constant/RabbitConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/constant/RedisConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/constant/StringConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/dto/EmailMessageDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/dto/ResultBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/dto/TProductAddDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/dto/TProductCartDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/util/HttpClientUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/util/SpringSecurityUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/util/StringUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/vo/CartItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-entity/src/main/java/com/qf/entity/TProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-entity/src/main/java/com/qf/entity/TProductDesc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-entity/src/main/java/com/qf/entity/TProductType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-entity/src/main/java/com/qf/entity/TUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/java/com/qf/mapper/TProductDescMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/java/com/qf/mapper/TProductMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/java/com/qf/mapper/TProductTypeMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/java/com/qf/mapper/TUserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/resources/mapper/TProductDescMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/resources/mapper/TProductMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/resources/mapper/TProductTypeMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/resources/mapper/TUserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-v-ervice/shop-cart/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-v-basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-v-basic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-v-basic/shop-conmon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-v-basic/shop-conmon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/ShopConmonApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-v-basic/shop-entity/src/main/java/com/qf/entity/ShopEntityApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-v-basic/shop-entity/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-v-basic/shop-mapper/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-v-basic/shop-mapper/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/java/com/qf/mapper/ShopMapperApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-v-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-v-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5fb82e95-66f5-49e9-af1c-da43a9937158.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/shop-v-api/target/" />
     <ignored path="$PROJECT_DIR$/shop-v-basic/target/" />
@@ -131,104 +56,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/resources/mapper/TProductTypeMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/java/com/qf/mapper/TProductDescMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/java/com/qf/mapper/TProductMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/resources/mapper/TProductMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/base/IBaseService.java">
+        <entry file="file://$PROJECT_DIR$/shop-v-ervice/shop-cart/src/main/java/com/qf/cartapi/ShopCartApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="174">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/java/com/qf/mapper/TProductTypeMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/java/com/qf/mapper/TUserMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/base/IBaseDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-v-basic/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-mapper/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -259,11 +91,11 @@
         <option value="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/base/IBaseDao.java" />
         <option value="$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/base/BaseServiceImpl.java" />
         <option value="$PROJECT_DIR$/shop-v-basic/shop-conmon/pom.xml" />
-        <option value="$PROJECT_DIR$/shop-v-basic/shop-mapper/pom.xml" />
         <option value="$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/java/com/qf/mapper/TProductDescMapper.java" />
         <option value="$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/java/com/qf/mapper/TProductMapper.java" />
         <option value="$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/java/com/qf/mapper/TProductTypeMapper.java" />
         <option value="$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/java/com/qf/mapper/TUserMapper.java" />
+        <option value="$PROJECT_DIR$/shop-v-basic/shop-mapper/pom.xml" />
       </list>
     </option>
   </component>
@@ -303,33 +135,6 @@
               <item name="zz-shop-1909" type="b2602c69:ProjectViewProjectNode" />
               <item name="zz-shop-1909" type="462c0819:PsiDirectoryNode" />
               <item name="shop-v-basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zz-shop-1909" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zz-shop-1909" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-v-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-conmon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zz-shop-1909" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zz-shop-1909" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-v-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-conmon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zz-shop-1909" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zz-shop-1909" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-v-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-conmon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zz-shop-1909" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zz-shop-1909" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-v-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-mapper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -433,7 +238,7 @@
       <workItem from="1583901728388" duration="3091000" />
       <workItem from="1583905167869" duration="12228000" />
       <workItem from="1583990780238" duration="7187000" />
-      <workItem from="1584004145694" duration="1765000" />
+      <workItem from="1584004145694" duration="2088000" />
     </task>
     <task id="LOCAL-00001" summary="first framework">
       <created>1583903223955</created>
@@ -477,14 +282,22 @@
       <option name="project" value="LOCAL" />
       <updated>1583905650535</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="first framework">
+      <created>1584006178739</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584006178739</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24271000" />
+    <option name="totallyTimeSpent" value="24594000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22587131" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -593,13 +406,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shop-v-api/shop-cart-api/src/main/resources/application.properties" />
     <entry file="file://$PROJECT_DIR$/shop-v-api/shop-cart-api/src/main/java/com/qf/cartapi/ShopCartApiApplication.java" />
-    <entry file="file://$PROJECT_DIR$/shop-v-ervice/shop-cart/src/main/java/com/qf/cartapi/ShopCartApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop-v-api/shop-cart-api/src/main/java/com/qf/cartapi/MyCartService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -750,6 +556,13 @@
     <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/resources/mapper/TUserMapper.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-mapper/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="856">
+          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/shop-v-basic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
@@ -757,10 +570,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-mapper/pom.xml">
+    <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/base/IBaseDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state relative-caret-position="290">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -774,13 +587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/base/IBaseService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/java/com/qf/mapper/TProductTypeMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -791,27 +597,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/resources/mapper/TProductTypeMapper.xml">
+    <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/base/IBaseService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-conmon/src/main/java/com/qf/conmon/base/IBaseDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/java/com/qf/mapper/TProductDescMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="174">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -829,6 +618,30 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/java/com/qf/mapper/TProductDescMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-v-basic/shop-mapper/src/main/resources/mapper/TProductTypeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-v-ervice/shop-cart/src/main/java/com/qf/cartapi/ShopCartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
