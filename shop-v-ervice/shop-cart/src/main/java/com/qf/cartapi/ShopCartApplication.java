@@ -1,13 +1,13 @@
-package com.qf.mapper;
+package com.qf.cartapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ShopMapperApplication {
+public class ShopCartApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ShopMapperApplication.class, args);
+        SpringApplication.run(ShopCartApplication.class, args);
     }
 
 }

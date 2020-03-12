@@ -8,5 +8,10 @@
     <artifactId>shop-v-basic</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>shop-conmon</module>
+        <module>shop-entity</module>
+        <module>shop-mapper</module>
+    </modules>
 
 </project>

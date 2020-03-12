@@ -20,6 +20,25 @@
 
     <dependencies>
         <dependency>
+            <groupId>com.qf.conmon</groupId>
+            <artifactId>shop-conmon</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.mybatis/mybatis -->
+        <dependency>
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis</artifactId>
+            <version>3.4.6</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.qf.entity</groupId>
+            <artifactId>shop-entity</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
@@ -49,6 +68,15 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <resources>
+            <resource>
+                <includes>
+                    <include>**/*.xml</include>
+                </includes>
+                <directory>src/main/resources</directory>
+            </resource>
+
+        </resources>
     </build>
 
 </project>

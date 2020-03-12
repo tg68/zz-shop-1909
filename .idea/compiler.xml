@@ -6,16 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="shop-mapper" />
         <module name="shop-entity" />
+        <module name="shop-mapper" />
         <module name="shop-v-basic" />
         <module name="shop-v-web" />
         <module name="shop-v-ervice" />
+        <module name="shop-cart" />
         <module name="shop-v-api" />
         <module name="shop-conmon" />
+        <module name="shop-cart-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="shop-cart" target="1.8" />
+      <module name="shop-cart-api" target="1.8" />
       <module name="shop-conmon" target="1.8" />
       <module name="shop-entity" target="1.8" />
       <module name="shop-mapper" target="1.8" />
@@ -27,6 +31,8 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="shop-cart" options="-parameters" />
+      <module name="shop-cart-api" options="-parameters" />
       <module name="shop-conmon" options="-parameters" />
       <module name="shop-entity" options="-parameters" />
       <module name="shop-mapper" options="-parameters" />
