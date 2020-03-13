@@ -1,5 +1,8 @@
 package com.qf.conmon.base;
 
+import org.springframework.stereotype.Repository;
+
+@Repository
 public interface IBaseDao<T> {
 
     int deleteByPrimaryKey(Long cid);

@@ -1,10 +1,10 @@
-package com.qf.cartapi;
+package com.qf.cart;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ShopCartApiApplicationTests {
+class ShopCartApplicationTests {
 
     @Test
     void contextLoads() {
