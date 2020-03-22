@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/shop-v-ervice/shop-cart/shop-cart.iml" filepath="$PROJECT_DIR$/shop-v-ervice/shop-cart/shop-cart.iml" />
       <module fileurl="file://$PROJECT_DIR$/shop-v-api/shop-cart-api/shop-cart-api.iml" filepath="$PROJECT_DIR$/shop-v-api/shop-cart-api/shop-cart-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-v-service/shop-cart-service/shop-cart-service.iml" filepath="$PROJECT_DIR$/shop-v-service/shop-cart-service/shop-cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-v-web/shop-cart-web/shop-cart-web.iml" filepath="$PROJECT_DIR$/shop-v-web/shop-cart-web/shop-cart-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/shop-v-basic/shop-conmon/shop-conmon.iml" filepath="$PROJECT_DIR$/shop-v-basic/shop-conmon/shop-conmon.iml" />
       <module fileurl="file://$PROJECT_DIR$/shop-v-basic/shop-entity/shop-entity.iml" filepath="$PROJECT_DIR$/shop-v-basic/shop-entity/shop-entity.iml" />
       <module fileurl="file://$PROJECT_DIR$/shop-v-basic/shop-mapper/shop-mapper.iml" filepath="$PROJECT_DIR$/shop-v-basic/shop-mapper/shop-mapper.iml" />
       <module fileurl="file://$PROJECT_DIR$/shop-v-api/shop-v-api.iml" filepath="$PROJECT_DIR$/shop-v-api/shop-v-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/shop-v-basic/shop-v-basic.iml" filepath="$PROJECT_DIR$/shop-v-basic/shop-v-basic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/shop-v-ervice/shop-v-ervice.iml" filepath="$PROJECT_DIR$/shop-v-ervice/shop-v-ervice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-v-service/shop-v-service.iml" filepath="$PROJECT_DIR$/shop-v-service/shop-v-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/shop-v-web/shop-v-web.iml" filepath="$PROJECT_DIR$/shop-v-web/shop-v-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/zz-shop-1909.iml" filepath="$PROJECT_DIR$/.idea/zz-shop-1909.iml" />
     </modules>

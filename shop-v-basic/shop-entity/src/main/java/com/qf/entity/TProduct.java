@@ -1,6 +1,5 @@
 package com.qf.entity;
 
-import org.springframework.stereotype.Repository;
 
 import java.io.Serializable;
 import java.util.Date;

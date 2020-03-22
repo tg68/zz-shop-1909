@@ -15,6 +15,10 @@
         <option value="$PROJECT_DIR$/shop-v-basic/shop-conmon/pom.xml" />
         <option value="$PROJECT_DIR$/shop-v-ervice/shop-cart/pom.xml" />
         <option value="$PROJECT_DIR$/shop-v-api/shop-cart-api/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-v-service/shop-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-v-service/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-v-service/shop-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-v-web/shop-cart-web/pom.xml" />
       </list>
     </option>
   </component>
